@@ -20,4 +20,4 @@ __Instructions__
 
 Enjoy!
 
-Copied from the [tacofancy repo][https://github.com/sinker/tacofancy].
+Copied from the [tacofancy repo](https://github.com/sinker/tacofancy).
