@@ -4,7 +4,7 @@ Teriyaki Chicken Tacos
 These Teriyaki Chicken Tacos are savory, sweet, spicy, tangy, and everything in between to become your new favorite tacos!
 
 __Ingredients__
-* 1 bottle Teriyaki marinade or sauce
+* 1 bottle (around 500ml) Teriyaki marinade or sauce
 * 1/2 pounds basic shredded chicken
 * 4-6 taco size flour tortillas
 * 2 cups shredded Montery Jack cheese
